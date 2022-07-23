@@ -1,8 +1,8 @@
 # Site settings
 title: Alberto Ferrari
 author:
-name: Alberto Ferrari
-email: alberto-ferrari@outlook.it
+  name: Alberto Ferrari
+  email: alberto-ferrari@outlook.it
 description: "Personal website"
 
 # Build settings
