@@ -1,9 +1,9 @@
 # Site settings
-title: Alberto Ferrari
+title: Great New Blog Title
 author:
   name: Alberto Ferrari
   email: alberto-ferrari@outlook.it
-description: "Personal website"
+description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-minimal
